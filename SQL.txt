@@ -1,0 +1,41 @@
+What is SQL used for?
+
+SQL is an essential part of the technology stack for many organizations and is widely used in business, government, and scientific applications across many roles including: Data Analysts, Business Intelligence Analysts, Data Scientists, Database Developers, and Data Engineers. SQL is used by organizations to interact with databases which store and manage data in a structured and efficient way.
+
+The following are common tasks that people use SQL for:
+
+    Creating, modifying, and deleting database tables and records
+    Inserting, updating, and deleting data in a database
+    Retrieving data from a database with SELECT statements
+    Grouping and aggregating data
+    Joining data from multiple tables
+    Creating views and stored procedures
+    Performing data analysis and data mining
+    Managing the security and permissions of a database
+    Monitoring and optimizing database performance
+    Backing up and restoring databases
+
+
+
+
+EX:Statements, Functions, and Clauses
+
+If you are learning SQL, you’ll see different components, and it’s important to understand what they are used for:
+
+    Statements: Used to carry out tasks in the database
+    Examples: SELECT, INSERT, UPDATE, DELETE, ALTER, DROP, CREATE, GRANT, REVOKE
+    Clauses: Components of SQL statements that specify specific conditions, restrictions or operations to be performed
+    Examples: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, JOIN, UNION, WITH
+    Expressions: Combinations of values, operators, and functions that produce a single value
+    Examples: mathematical operations, concatenation, Functions, CASE, Subquery
+    Predicates: Conditions that evaluate to either true, false or unknown in SQL. They are used in the WHERE clause of SQL to specify a subset of rows to be returned from a database table
+    Examples: Equality, Inequality, Comparison, BETWEEN, LIKE, NULL, AND, OR, NOT
+    Operators: Symbols or keywords used to perform operations and comparisons in SQL expressions
+    Examples: Arithmetic, Comparison, Logical, IN, LIKE, BETWEEN, IS NULL
+    Functions: Built-in or user-defined operations that perform specific calculations or manipulations on data. Examples: Aggregates, Date & Time, String, Conversion, Mathematical
+    Data types: Specify and define the type of data that a column in a table can hold
+    Examples: Numeric, Characters and Strings, Date & Time, Binary, Boolean
+    Keywords: Special reserved words used in SQL that have a specific meaning and cannot be used as identifiers (such as table or column names) without being quoted
+    Examples: SELECT, FROM, WHERE, AND, OR.
+
+You can always write detailed queries using SQL for your desired use case. But if you want to explore making it a little easier on yourself, Coginiti has features to help you analyze your data if you forgot to write the SQL or you’re simply still learning. As an example, Coginiti has an advanced grid to quickly filter, sort, pivot, and aggregate your data.

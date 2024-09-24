@@ -1,0 +1,19 @@
+History of JavaScript
+
+
+
+
+JavaScript was first implemented in Netscape Navigator, the most popular browser at the time. Microsoft quickly adopted it for Internet Explorer. Its ease of use and unique position as the only client-side scripting language made JavaScript popular among web developers.
+
+Over the years, JavaScript’s popularity grew, and it was used to create a variety of web applications, including online games, dynamic menus, and form validation. A new version, ECMAScript 4, was planned in 2002 but was abandoned due to disagreements among browser vendors.
+
+Today, JavaScript is one of the most popular programming languages, used by about 95% of websites. It is not only crucial for web development but also for creating server-side applications, desktop and mobile apps, and even programming robots and hardware.
+
+    Since its release in 1995, JavaScript has undergone numerous revisions, each adding new features and syntax. In this response, we will compare some code from an older version with code from the latest update.
+
+Example 1: The var keyword was first made available in 1995’s initial release of JavaScript. Declaring a variable that can later be changed in the code is done using it. Variables in JavaScript had to be declared using the let keyword, which was taken from the C programming language before var was introduced.
+
+Two new keywords, let and const, were added to ECMAScript 6 (which was released in 2015) to give block scope variables in addition to the function scope variables offered by var. In that it permits variable reassignment, the let keyword is comparable to var in that it also offers block scoping. On the other hand, variables whose values cannot be changed are declared using the const keyword.
+
+
+
